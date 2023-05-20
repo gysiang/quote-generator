@@ -23,7 +23,7 @@ function QuoteContainer({ quote, author }) {
         }}>&rdquo;</span>
      </div>
      <h5 style={{
-      marginTop:"-10px"
+      marginTop:"-20px"
      }}>{author}</h5>
     </div>
     
