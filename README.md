@@ -12,3 +12,5 @@ Generates an random quote from https://api.quotable.io/random.
 - Clone this repo
 - npm install
 - npm run dev
+
+[Deployed Link](https://quote-generator-smoky-gamma.vercel.app/)
